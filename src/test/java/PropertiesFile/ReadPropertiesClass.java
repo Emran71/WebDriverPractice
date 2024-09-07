@@ -29,7 +29,7 @@ public class ReadPropertiesClass {
 		
 		file.close();
 		//Read only keys
-		 //Set<String> keys = proObj.stringPropertyNames();
+		//Set<String> keys = proObj.stringPropertyNames();
 
 	}
 
